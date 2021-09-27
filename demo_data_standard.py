@@ -1,4 +1,4 @@
-from RCPython.client import Client
+from RCPython.Client import Client
 import os
 import json
 
